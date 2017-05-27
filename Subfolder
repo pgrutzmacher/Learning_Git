@@ -1,0 +1,5 @@
+To create a subfolder you need to create a "new file" and commit
+After this, you have to go to "Edit file" and
+write the name of the subfolder you want to create in the box above
+right before the name of your file and type /
+Commit right after and then you have created your subfolder
